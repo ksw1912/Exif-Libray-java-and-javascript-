@@ -9,3 +9,7 @@ Example configuration
 2.Output specific tags
 3. Delete specific tag
 4. Create custom tags (can only be created based on exif)
+
+
+
+Will be uploading soon
