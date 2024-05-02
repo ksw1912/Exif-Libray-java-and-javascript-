@@ -2,8 +2,9 @@ this is code for exif extraction
 There was no code that implemented each desired code, and the code was shared to reduce the effort of doing manual work one by one. In Java, all examples are contained in one file.
 
 
-node js   Will be uploading soon
 node-exiftool Use the library
+moidfy file
+When Tag_add variable delete you will print all tag
 
 Java
 apache commons-imaging Use the library
